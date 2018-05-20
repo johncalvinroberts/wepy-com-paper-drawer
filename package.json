@@ -1,0 +1,27 @@
+{
+  "name": "wepy-com-paper-drawer",
+  "version": "1.0.0",
+  "description": "Wepy paper UI drawer component",
+  "main": "drawer.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wepy",
+    "wxmp",
+    "weapp",
+    "wechat"
+  ],
+  "author": "John Roberts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johncalvinroberts/wepy-com-paper-drawer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-1": "^6.16.0"
+  }
+}
